@@ -3,3 +3,5 @@
 *.log
 *.xml
 *.iml
+main.exe
+.idea
