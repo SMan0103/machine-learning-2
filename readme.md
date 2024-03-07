@@ -21,3 +21,10 @@
     <li>Learn the basics of making a machine learning algorithms</li>
     <li>Apply what we found out in step two</li>
 </div>
+
+
+<div>
+    <h2>Tools</h2>
+    <h3>Math tools</h3>
+    <P>Vi will be using xtensor for the  math operators in other code base</P>
+</div>
